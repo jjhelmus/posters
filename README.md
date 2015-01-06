@@ -7,3 +7,12 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
   Presented at [SciPy 2014](https://conference.scipy.org/scipy2014/),
   Austin, Texas, July 6-12, 2014.
 
+Oral Presentations created by for various conference, meetings, etc.
+--------------------------------------------------------------------
+By: Jonathan J. Helmus, PhD
+Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
+
+* [Designing and implementing weather radar algorithms in Python](https://github.com/jjhelmus/posters/raw/master/2015_AMS_Annual_Meeting_Talk.pdf).
+  Presented at the [95th AMS Annual Meeting](http://annual.ametsoc.org/2015/).
+  In the [Fifth Symposium on Advances in Modeling and Analysis Using Python](http://annual.ametsoc.org/2015/index.cfm/programs-and-events/conferences-and-symposia/fifth-symposium-on-advances-in-modeling-and-analysis-using-python/).
+  Phoenix, Arizona, January 4-8, 2015.
