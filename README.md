@@ -19,3 +19,7 @@ Feel free to email me, jjhelmus [at] gmail.com, with questions or comments.
   Presented at the [95th AMS Annual Meeting](http://annual.ametsoc.org/2015/).
   In the [Fifth Symposium on Advances in Modeling and Analysis Using Python](http://annual.ametsoc.org/2015/index.cfm/programs-and-events/conferences-and-symposia/fifth-symposium-on-advances-in-modeling-and-analysis-using-python/).
   Phoenix, Arizona, January 4-8, 2015.
+
+* [Profiling Python code to improve memory usage and execution time](https://github.com/jjhelmus/posters/raw/master/2015_SEA_Python_Profiling.pdf).
+  Presented at the [2015 SEA Software Enginnering Conference](https://sea.ucar.edu/conference/2015).
+  Boulder, CO, April 13-17, 2015.
