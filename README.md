@@ -1,3 +1,7 @@
+A more up-to-date repository with posters and presentations by Jonathan can be
+found at [GitHub.com/jjhelmus/presentations](https://github.com/presentations)
+
+
 Posters created by for various conference, meetings, etc.
 ---------------------------------------------------------
 By: Jonathan J. Helmus, PhD
